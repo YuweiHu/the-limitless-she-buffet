@@ -11,8 +11,12 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function SetPage({ params }: { params: { setId: string } }) {
-  const { setId } = params;
+export default async function SetPage({
+  params,
+}: {
+  params: Promise<{ setId: string }>;
+}) {
+  const { setId } = await params;
   const { items } = getItemsData();
   const itemsInSet = items.filter((item) => item.set === setId);
 

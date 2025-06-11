@@ -9,8 +9,12 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function ItemPage({ params }: { params: { itemId: string } }) {
-  const { itemId } = params;
+export default async function ItemPage({
+  params,
+}: {
+  params: Promise<{ itemId: string }>;
+}) {
+  const { itemId } = await params;
   const { items } = getItemsData();
   const item = items.find((i) => i.id === itemId);
 
