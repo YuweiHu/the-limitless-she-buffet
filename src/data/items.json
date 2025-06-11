@@ -3,85 +3,111 @@
     {
       "id": "item-1",
       "set": "A",
-      "name": "product name 1",
-      "desc": "product description",
+      "author": "Ani Syu",
+      "name": "Postcard to Delay",
+      "desc": [
+        "Every time she arrived in a new city, she wrote postcards. Not because she had something to say, but because she wasn’t ready to say it. She loved the delay—postcards moved slower than she did. By the time her words arrived, the feelings had already shifted. To her, that was exactly the rhythm life should have.",
+        "In an old diary, she once wrote: “Instant messaging feels like table tennis—I’m always half a beat too late.” She was a terrible player, never able to return a serve on time. So she chose postcards instead—a slower way of speaking to the world, and to herself.",
+        "Claude Lévi-Strauss once said that travel is not just about moving through space, but also through time and social hierarchies. For her, each journey wasn’t about escape—it was an attempt to step outside of systems that felt too tight, too scripted.",
+        "She held on to the slowness of postcards. She wrote to friends, and to a version of herself that hadn’t yet arrived. And she hoped that someone—whoever it might be—would one day receive her words, and read them slowly, in an unexpected moment."
+      ],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-2",
       "set": "A",
-      "name": "product name 2",
-      "desc": "product description",
+      "author": "Ani Syu",
+      "name": "A Taste of Possibilities",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-3",
       "set": "A",
-      "name": "product name 3",
-      "desc": "product description",
+      "author": "Ani Syu",
+      "name": "The Five-Month Rule for Boredom",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-4",
       "set": "B",
-      "name": "product name 4",
-      "desc": "product description",
+      "author": "Hei Man",
+      "name": "Fortune Cookies",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-5",
       "set": "B",
-      "name": "product name 5",
-      "desc": "product description",
+      "author": "Hei Man",
+      "name": "Blemishes, Strawberries and sauce",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-6",
       "set": "B",
-      "name": "product name 6",
-      "desc": "product description",
+      "author": "Hei Man",
+      "name": "The last biscuit",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-7",
-      "set": "C",
-      "name": "product name 7",
-      "desc": "product description",
+      "set": "B",
+      "author": "Hei Man",
+      "name": "The wings",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-8",
       "set": "C",
+      "author": "Eun",
       "name": "product name 8",
-      "desc": "product description",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-9",
       "set": "C",
+      "author": "Eun",
       "name": "product name 9",
-      "desc": "product description",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-10",
-      "set": "D",
+      "set": "C",
+      "author": "Eun",
       "name": "product name 10",
-      "desc": "product description",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-11",
       "set": "D",
+      "author": "An Chen",
       "name": "product name 11",
-      "desc": "product description",
+      "desc": [],
       "img": "/placeholder.svg"
     },
     {
       "id": "item-12",
       "set": "D",
+      "author": "An Chen",
       "name": "product name 12",
-      "desc": "product description",
+      "desc": [],
+
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-13",
+      "set": "D",
+      "author": "An Chen",
+      "name": "product name 13",
+      "desc": [],
       "img": "/placeholder.svg"
     }
   ]

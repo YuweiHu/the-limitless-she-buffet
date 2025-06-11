@@ -4,8 +4,9 @@ import path from "path";
 export interface Item {
   id: string;
   set: string;
+  author: string;
   name: string;
-  desc: string;
+  desc: string[];
   img: string;
 }
 

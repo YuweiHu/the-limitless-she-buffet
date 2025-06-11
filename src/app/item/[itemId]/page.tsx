@@ -30,12 +30,18 @@ export default async function ItemPage({
           alt={item.name}
           width={800}
           height={600}
-          className="rounded-lg object-cover w-full h-full"
+          className="rounded-lg object-cover w-full h-auto"
         />
       </div>
       <div className="flex flex-col justify-center">
-        <h1 className="text-4xl font-bold mb-4">{item.name}</h1>
-        <p className="text-lg text-gray-700">{item.desc}</p>
+        <h1 className="text-4xl font-bold mb-4">
+          {item.name} | {item.author}
+        </h1>
+        <p className="text-lg text-gray-700">
+          {item.desc.map((t) => (
+            <p key={t}>{t}</p>
+          ))}
+        </p>
       </div>
     </div>
   );
