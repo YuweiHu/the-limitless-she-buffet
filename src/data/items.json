@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "item-1",
+      "set": "A",
+      "name": "product name 1",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-2",
+      "set": "A",
+      "name": "product name 2",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-3",
+      "set": "A",
+      "name": "product name 3",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-4",
+      "set": "B",
+      "name": "product name 4",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-5",
+      "set": "B",
+      "name": "product name 5",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-6",
+      "set": "B",
+      "name": "product name 6",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-7",
+      "set": "C",
+      "name": "product name 7",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-8",
+      "set": "C",
+      "name": "product name 8",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-9",
+      "set": "C",
+      "name": "product name 9",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-10",
+      "set": "D",
+      "name": "product name 10",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-11",
+      "set": "D",
+      "name": "product name 11",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    },
+    {
+      "id": "item-12",
+      "set": "D",
+      "name": "product name 12",
+      "desc": "product description",
+      "img": "/placeholder.svg"
+    }
+  ]
+}
