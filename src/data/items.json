@@ -1,113 +1,282 @@
 {
   "items": [
     {
-      "id": "item-1",
+      "id": "item-a1",
       "set": "A",
       "author": "Ani Syu",
-      "name": "Postcard to Delay",
+      "name": "Rule of Five",
       "desc": [
-        "Every time she arrived in a new city, she wrote postcards. Not because she had something to say, but because she wasn’t ready to say it. She loved the delay—postcards moved slower than she did. By the time her words arrived, the feelings had already shifted. To her, that was exactly the rhythm life should have.",
-        "In an old diary, she once wrote: “Instant messaging feels like table tennis—I’m always half a beat too late.” She was a terrible player, never able to return a serve on time. So she chose postcards instead—a slower way of speaking to the world, and to herself.",
-        "Claude Lévi-Strauss once said that travel is not just about moving through space, but also through time and social hierarchies. For her, each journey wasn’t about escape—it was an attempt to step outside of systems that felt too tight, too scripted.",
-        "She held on to the slowness of postcards. She wrote to friends, and to a version of herself that hadn’t yet arrived. And she hoped that someone—whoever it might be—would one day receive her words, and read them slowly, in an unexpected moment."
+        "She turned twenty in a hotel room far from home. No candles, no cake. The TV was on, its ticker repeating the same headlines—death tolls, unrest, politics. Two crises unfolded that day—one reported, one unspoken. One belonged to the world. The other, quietly, to her.",
+        "She couldn’t quite name what she was feeling. It wasn’t fear, nor homesickness. It was more like a silent hollow, as if she were watching her own reflection from outside, disconnected. Years later, she came across a line in Boredom, Self, and Culture by Sean Desmond Healy, where hyperboredom is described as “the loss of a sense of personal meaning”—a spiritual form of alienation that, in extreme cases, can rob a person of the will to act at all (Healy, 1984, pp. 25–26). Only then did she realize: that was it. That was the weight she had been carrying since twenty—unnamed, but persistent.",
+        "“If I can’t escape it,” she once thought, “at least I’ll try to make it fun.”",
+        "That’s how the game started. A quiet experiment between her and herself. The rules were simple: arrive in a city she had never lived in, stay no more than five months, and leave before anything could take root. If she stayed longer, she lost. If she left on time, quietly and without regret, she won.",
+        "But why five months? “It’s long enough for the weather to change, for habits to form, and for emotions to start posing a risk.” Each round began with light luggage and a new language. She would find a morning route to walk, a local café, a favorite bench. She met people, but never went too deep. She immersed, but never entangled. When the days began repeating—or worse, when that familiar numbness returned—it was her cue. She’d begin to shut things down, quietly. It wasn’t escape. She didn’t need to explain.",
+        "In the final days before leaving, she wrote postcards—short, slow, and honest. One might describe a painting in a museum. Another, the way the light hit a certain corner in the afternoon. A tram line memorized by heart. These were her injury-time rituals before the next round began. She always knew she would leave.",
+        "“None of it really mattered,” she reminded herself each time. “So long as it was fun.” Just another five months. Two seasons. A cycle to resist the void."
       ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-2",
+      "id": "item-a2",
       "set": "A",
       "author": "Ani Syu",
-      "name": "A Taste of Possibilities",
-      "desc": [],
+      "name": "Slow-Posted Connection",
+      "desc": [
+        "Some people know about her addiction to relocation. Each time she moves to a new city, she sends postcards to friends—sometimes sharing glimpses of paintings encountered in museums, or a tiny flower spotted in the corner of a café. Other times, she simply notes quiet details of her daily life, such as how morning sunlight gently falls across a table, or the warm smile from the bakery owner down the street. The words she writes are few, yet they carry her truest feelings in that moment—a calmness unhurried by the pressure of immediate responses.",
+        "“People generally think of travel in terms of displacement in space, but a long journey exists simultaneously in space, in time, and in the social hierarchy. Our impressions must be related to each of these three before we can define them properly; and as space alone has three dimensions all to itself we should need at least five to establish an adequate notion of travel. This I sensed as soon as I went ashore in Brazi,” Claude Lévi-Strauss writes in Tristes Tropiques",
+        "Perhaps, then, what she experiences isn’t simply relocation or moving homes. Instead, it’s a journey of awareness, exploration, insight, self-healing, and a subtle escape from social hierarchies (although, truthfully, she often finds herself shifting from one hierarchy to another—ha).",
+        "“Why do you always keep moving?” “How lucky you are to just pack up and go whenever you like!”",
+        "Comments like these—difficult to recognise as admiration or mild mockery—make it even harder for her to define herself clearly. Immediate interactions, with their rapid exchanges, resemble a frantic table-tennis match, and she is always a poor player, perpetually half a beat late, unable to return the swift incoming messages. Unsure how to explain herself, she usually responds with an awkward smile.☺︎",
+        "Maybe that’s why she prefers postcards. She enjoys the deliberate slowness—from thoughtfully selecting a card, carefully crafting each word, gently placing it into the mailbox, to its slow journey across cities and oceans before arriving in someone’s hands. This delayed rhythm perfectly matches how she wishes to communicate with the world."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-3",
+      "id": "item-a3",
       "set": "A",
       "author": "Ani Syu",
-      "name": "The Five-Month Rule for Boredom",
-      "desc": [],
+      "name": "Her Own Reason for Being",
+      "desc": [
+        "“Sugar, spice, and everything nice. These were the ingredients chosen to create the perfect little girl.” — The Powerpuff Girls",
+        "Thanks to Professor Utonium’s accidental addition of Chemical Xtreme, what emerged wasn’t perfect girls, but powerful ones.",
+        "Of all the characters, she always loved Bubbles—the one mocked for crying too much, too easily. But it wasn't until much later, nearly two full years into therapy as an adult, that she finally allowed herself to cry in front of someone—freely, without guilt.",
+        "For so long, a girl’s tears have carried far too many meanings—emotional, social, symbolic, even artistic. But maybe sadness is simply sadness. (And of course, the world has long silenced more than just girls’ tears—but that’s another story.)",
+        "“It’s a quick-fix,” her therapist once said. “A way of easing the weight without touching the root. Crying might be the shortcut to reclaiming a sense of self; leaving, too—a strategy to protect yourself from being governed by stability.” She created these quick-fixes to carve out a mental space—a portable room of her own, where she could breathe, where she could heal.",
+        "To be wild, to be chaotic, to be a mess—that is the mysterious factor she needs.The one she calls “X.” Others, perhaps, would name it “possibility.”",
+        "✿✿✿",
+        "Possibilities",
+        "by Wisława Szymborska",
+        "I prefer movies.",
+        "I prefer cats.",
+        "I prefer the oaks along the Warta.",
+        "I prefer Dickens to Dostoyevsky.",
+        "I prefer myself liking people",
+        "to myself loving mankind.",
+        "I prefer keeping a needle and thread on hand, just in case.",
+        "I prefer the color green.",
+        "I prefer not to maintain",
+        "that reason is to blame for everything.",
+        "I prefer exceptions.",
+        "I prefer to leave early.",
+        "I prefer talking to doctors about something else.",
+        "I prefer the old fine-lined illustrations.",
+        "I prefer the absurdity of writing poems",
+        "to the absurdity of not writing poems.",
+        "I prefer, where love’s concerned, nonspecific anniversaries",
+        "that can be celebrated every day.",
+        "I prefer moralists",
+        "who promise me nothing.",
+        "I prefer cunning kindness to the over-trustful kind.",
+        "I prefer the earth in civvies.",
+        "I prefer conquered to conquering countries.",
+        "I prefer having some reservations.",
+        "I prefer the hell of chaos to the hell of order.",
+        "I prefer Grimms’ fairy tales to the newspapers’ front pages.",
+        "I prefer leaves without flowers to flowers without leaves.",
+        "I prefer dogs with uncropped tails.",
+        "I prefer light eyes, since mine are dark.",
+        "I prefer desk drawers.",
+        "I prefer many things that I haven’t mentioned here",
+        "to many things I’ve also left unsaid.",
+        "I prefer zeroes on the loose",
+        "to those lined up behind a cipher.",
+        "I prefer the time of insects to the time of stars.",
+        "I prefer to knock on wood.",
+        "I prefer not to ask how much longer and when.",
+        "I prefer keeping in mind even the possibility",
+        "that existence has its own reason for being."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-4",
+      "id": "item-b1",
       "set": "B",
-      "author": "Hei Man",
-      "name": "Fortune Cookies",
-      "desc": [],
+      "author": "Clementine Hei-man Cheung",
+      "name": "The Last Biscuit",
+      "desc": [
+        "She, from whom she inherited half a face (they say she has her father’s eyes and contours, her mother’s grin), once told her younger self, “Your father is someone who would offer the last biscuit to others instead of eating it himself. He would rather starve to death.” She grew up watching her parents sacrifice. They sacrificed their time, assets, values, and interests, solely for the sake of others, especially to complete her, to make her whole. Against this, it therefore resulted in shaping her root belief in love.",
+        "Long before she entered the education and field of mathematics, she had experienced and been taught by their examples of this “impeccable” equation, this truthful principle they lived and demonstrated to her—sacrificing yourself equates to love and the act of giving love; prioritising others before yourself.",
+        "She was always overjoyed by how much she could offer to others until she was overdrafted, overwhelmed, exhausted, and fatigued. She felt the sweetness of sacrificing until she no longer did. Not in vain did she exhaust her strength catapulting the boomerang. Reckless at the start, now its spin is ceaseless. She bears the waxing and waning, the profit and loss. Like the moon, like finance, like her city. She doesn’t bet or gamble, except with the emotions she devotes to places and individuals. All in, to sink or swim.",
+        "She has finally arrived at the land of self-love and appreciation. It took her much longer than ever expected, but she eventually reached here, better late than never. Self-love isn’t equal to selfishness, but rather the opposite, to be known of her own capacity and how much to reserve for herself, before offering the last biscuit to others. As if she was taking a flight, passengers should secure their own oxygen masks before assisting others. One cannot offer help effectively if they are in the same dire straits as those they’re trying to help."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-5",
+      "id": "item-b2",
       "set": "B",
-      "author": "Hei Man",
-      "name": "Blemishes, Strawberries and sauce",
-      "desc": [],
+      "author": "Clementine Hei-man Cheung",
+      "name": "Constellations Made of Shame",
+      "desc": [
+        "There was a time when her couple-month-old nephew looked into a mirror and smiled at the reflection of his very own self. He grinned with so much joy. She was left in awe as she had never been able to do the same equivalent thing herself. Countless blemishes, as if they were stars in a constellation. She grew up loathing her moles on the face, “why on earth do I have so many moles while others seem to have none?” These so-called “beauty marks” and spots once made her feel ashamed of herself when she was younger in age; fortune-tellers assign meaning to each mole based on its location on the face. Moles on the face are often associated with personality traits, fortune, or even destiny in her culture. There’s nothing much she can do about them.",
+        "Now, approaching her 30s, she is less affected by these irreversible birthmarks and recalls how the younger self ever imagined joining the moles by drawing straight lines across them—as if these moles could actually form a proper constellation, as if it were an astrological sign that you could look up in the sky and discover. She speaks quietly yet boldly to herself: “Live with it. Live through it. Up through and out.”"
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-6",
+      "id": "item-b3",
       "set": "B",
-      "author": "Hei Man",
-      "name": "The last biscuit",
-      "desc": [],
+      "author": "Clementine Hei-man Cheung",
+      "name": "The Auto-Pilot Daughters",
+      "desc": [
+        "Her father never chose to become a bus driver, nor did she choose to be born his daughter; these irreversible life events that happened were just catalysed by an impetus, of what we would call this force majeure as “fate.” In Chinese tradition, there are palm readers and the significant palm curve created by the thumb’s muscle complex is named the “life line,” as if it’s an organic route driven by her father and his fatherhood. Buses are, oddly speaking, her cradle—she has grown, evolved, and arguably metamorphosed along with this vessel that transports individuals from one point to another; from enabling an individual to become another.",
+        "She never considers herself a female, a woman, or a lady. Stereotypically she is the “emotional” one, which is an entitlement she rejects proactively. Sometimes she thinks she's not emotional, but in pain. Merely in pain.",
+        "It happens often—one moment she sees a cigarette stubbed to the edge, the next, a new one lit and burning; just like how her father masters his job, a bus driver who would start the engine from Y town, the next moment he would find himself in H Land; out of habit, out of familiarity to the point of being soulless—the auto-pilot of memory and muscle. Auto-piloting synonymises with having one’s  thoughts at a distance. Like flying a kite—she pulls, slide, tug; the kite on the other end, is exiled far away until it scatters, diminishes, and concludes",
+        "The stream of (un)consciousness. The act of (un)noticing. Her auto-piloting might mean extreme skilfulness to let her days swamped in responsibilities, socially-constructed roles and identities, and humdrum and errands, but it nevertheless simultaneously echoes with banality and mediocrity, hinting on how unaware she is, in the ebb and flow of time. The unresolved emotion swings could have been the most prominent challenge. She auto-pilots the mechanism to curb her turmoil and swirls of emotions either by allowing them to burst their banks, or suppressing them as if nothing ever happens."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-7",
+      "id": "item-b4",
       "set": "B",
-      "author": "Hei Man",
-      "name": "The wings",
-      "desc": [],
+      "author": "Clementine Hei-man Cheung",
+      "name": "A Seat at the Table",
+      "desc": [
+        "In a Cantonese family, whenever there is steamed chicken for some feast occasions, the thighs are served to your loved ones and the pair of wings are usually for the kids. The meaty and greasy part. Appetites are trained and socially constructed. She has always been the one to receive the wings. So deeply can she recall the moment in her teenage, sobbing at the dining table out of a frustrating rejection, tears overflowing, falling straight down, her mother kindly chopsticked the pair of chicken wings to her bowl. She was doused in love. As if the pair of wings were offered for her, to fly, to glide, from her very own failure.",
+        "She has become the person who would spare a pair of chicken wings and thighs for her loved ones. Now, she is the one sitting at the head of the table, quietly observing the feast unfold. The wings, the thighs—once hers—no longer belong to her. Instead, she ceremoniously places them into the bowls of the children, her partner, and sometimes even the quiet guest who feels out of place. It is not a sacrifice, she tells herself, but a way of passing on something intangible—a tradition, a language of care spoken without words. The wings have become more than just food; they are symbols of resilience, of nurture, of a quiet love that lifts others. She lets them fly again."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-8",
+      "id": "item-c1",
       "set": "C",
-      "author": "Eun",
-      "name": "product name 8",
-      "desc": [],
+      "author": "An Chen",
+      "name": "The Charm",
+      "desc": [
+        "“Make sure you marry a rich man when you grow up.”",
+        "Their mother had been repeating this line ever since they could remember.She’d say it with a bitter edge—no one knew whether she was mocking their father’s unremarkable job, or her eldest daughter’s newest pair of designer heels.",
+        "This mantra became something close to a family rule: women didn’t need talent or ambition—just a good husband to guarantee a smooth and secure life. Their mother cared deeply about money. “For girls,” she often said, “money is the most important charm. You two must remember that.”",
+        "One daughter followed the rulebook. She became a flight attendant, married a wealthy man, and now lives a picture-perfect life.",
+        "The other rejected the rules—at least outwardly. But that voice still echoes in her head. Every relationship that didn’t “measure up” felt haunted by it. She still can’t shake it."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-9",
+      "id": "item-c2",
       "set": "C",
-      "author": "Eun",
-      "name": "product name 9",
-      "desc": [],
+      "author": "An Chen",
+      "name": "The Canned Beliefs",
+      "desc": [
+        "Like canned laughter in a sitcom, certain values come pre-packaged—easy to swallow, easier to repeat:",
+        "“Poor couples have miserable lives.”",
+        "“Beauty is justice.”",
+        "“The woman who knows how to please gets the best life.”",
+        "Girls swallowed every one of them, even the bitter ones—because that’s what the world told them was right.",
+        "Her sister, too, internalised them. She became another version of her—someone who truly believed: if you became beautiful, you could marry rich. And if you married rich, you’d be happy. No questions. No doubts.",
+        "Sometimes, she imagined what her sister’s life must be like. A parallel self, living out the fantasy, might go something like this:",
+        "＿＿＿＿",
+        "She’s scrolling through her Instagram feed, eyeing another flight attendant’s flawless post, measuring herself against it. Without thinking, she types:“Omg, Cindy, you look amazing! ❤️❤️❤️” Then immediately messages another colleague: “Hey Ella, did you see? She’s totally overdone it with the surgery. And that other one’s flaunting her new bag again—only broke people do that. I’d never.” All while ignoring the clutter of designer boxes in her own living room, the way her every sentence circles back to brand names.",
+        "She scrolls on, the anxiety climbing with nowhere to land. She remembers a few nights ago, when her husband watched a pretty influencer and remarked, “She’s gorgeous—and barely wearing any makeup.” She looked at her own face in the mirror—softer now, looser after the third child. The Thermage she did six months ago hadn’t made much difference. Time to book Ultherapy.",
+        "She’d only ever wanted one child. She loved the sky, the freedom of flying. But when she found out her first two babies were girls, she cried. With the second, she didn’t even dare tell her father-in-law—he had hoped for a boy to carry on the family name.Her postpartum depression crept in, then grew. She hadn’t spoken to her mother in ages—too many flashbacks of being mocked and scolded. Her sister, cool and distant, lived overseas. They rarely spoke.",
+        "She felt lonely. Utterly lonely.",
+        "She opened her shopping app and began browsing luxury toys for her kids. She already owned the full Sylvanian Families set. What else could she add?",
+        "Just then, a cry rang out from the baby’s room. She rushed in, scooped her up, rocked her gently.",
+        "Later, in the kitchen, she stood rinsing a bottle. There was a discomfort in her chest, faint but real. She couldn’t remember the last time she’d felt like herself. Even her worries felt fragmented.",
+        "＿＿＿＿",
+        "But of course, this was all just her imagination.",
+        "They hadn’t had a real conversation in a long time."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-10",
+      "id": "item-c3",
       "set": "C",
-      "author": "Eun",
-      "name": "product name 10",
-      "desc": [],
+      "author": "An Chen",
+      "name": "The Mirror",
+      "desc": [
+        "The relationship between sisters is never simple.",
+        "She remembers the year she came back from studying abroad and saw her sister again for the first time in a long while. The first thing her sister said was: “You should get your eyebrows done. You look awful.” She smiled and replied, “Eyebrows won’t fix this face.”",
+        "She had grown used to these kinds of comments.",
+        "Her sister had been mocking her looks for as long as she could remember:",
+        "“Your mouth twists weirdly when you speak—it’s gross.” “Your chin’s so awkward.”",
+        "“Why would you wear that? Your taste is terrible.”",
+        "“That makeup makes you look like you’re trying too hard.”",
+        "Eight out of ten comments were criticisms—always circling back to appearance, shopping, or other women:",
+        "“That girl? Just a pretty face.”",
+        "“She got so fat after marriage.”",
+        "“That bag’s only 7,000 now—so cheap.”",
+        "No one in the family ever asked what she was working on, or whether she was doing okay living abroad.",
+        "She was terrified of becoming like her sister. Or her mother. She tried to suppress it—consciously, constantly. But those things, carved so deep into the bone, always found their way out. When her guard was down, she’d still make offhand comments about appearances or money. And then feel a rush of disgust and guilt.",
+        "She hated herself for it.",
+        "To this day, she still can’t bring herself to like the way she looks. Whether it was the narrow ideals of girlhood she grew up with, the remarks from boys and men along the way, or the voices of past lovers—",
+        "They all stuck.",
+        "Even now, when her gentle partner looks at her with soft eyes, even when she’s messy and half-asleep, She can’t quite believe it—not even after everything. Not after all the effort, all the strength she’s built. Not when this feeling still lingers."
+      ],
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-11",
+      "id": "item-d1",
       "set": "D",
-      "author": "An Chen",
-      "name": "product name 11",
-      "desc": [],
+      "author": "정지은 Ji-eun Jung",
+      "name": "To Please, and Be Loved",
+      "desc": [
+        "“She? She doesn’t need a boyfriend—she’s one of those strong, independent types.”",
+        "A high-return investment, they used to say. No extra spending on cram schools, yet she made it into the top university. She earned scholarships, secured a respectable job in a public agency, dressed smart but never too bold, always mindful not to outshine others. She followed elders’ advice, played the role of the competent daughter, and when necessary, the good wife-to-be. That’s how they described her. That’s how they praised her.",
+        "From a young age, she was trained to believe that good was never enough. There was always better.",
+        "Her grandfather—the one who adored her most—would tell his friends, half-laughing: “You know, when she was little, the neighbours used to ask, ‘How could two good-looking people have such an ugly child?’” Every holiday gathering, her aunts and uncles greeted her with sharp glances before offering advice. “Girls shouldn’t gain weight. Taller would be better. Go help out—don’t just stand there. Find something useful to do.”",
+        "In eighth grade, the classmates who bullied her started calling the house. Her family yelled back through the phone, then turned to her, sighing: “Girls are just like boys. You’re allowed to cry three times in your life. After that, no more tears.”",
+        "She took their words seriously. She believed that if she worked hard enough, stayed obedient enough, pleased them enough—they’d love her. They’d protect her.",
+        "So she tried. She outperformed. She earned praise. She kept quiet. She smiled. She poured everything into being good, and better.",
+        "And in the end, it vanished—without trace or witness. No applause. No one even noticed."
+      ],
+      "note": {
+        "title": "＊Chef’s Note｜Stone Pot bibimbap (돌솥비빔밥)",
+        "content": [
+          "When making 돌솥비빔밥, you start by cooking the rice directly in a hot stone pot. Unlike regular bibimbap, the white rice inside must endure intense, prolonged heat and pressure. What makes the dish shine isn’t the toppings—it’s the quality of the rice itself. The unseen part. The base."
+        ]
+      },
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-12",
+      "id": "item-d2",
       "set": "D",
-      "author": "An Chen",
-      "name": "product name 12",
-      "desc": [],
-
+      "author": "정지은 Ji-eun Jung",
+      "name": "Harmony, or Something Like It",
+      "desc": [
+        "She entered the national day banquet of Country T, held at a high-end hotel, dressed in heels and a voluminous, modern ceremonial gown. One hand lightly gathered her sweeping skirt. Her eyes scanned the crowd nervously for a certain man, though outwardly, she moved with quiet poise.",
+        "What unsettled her most was the fear of being stopped at the entrance—asked to prove her identity, to present an invitation, to justify her presence. What she didn’t realise then was how few people wore traditional dress at such events, especially among those in the diplomatic circle; she was the only one. There was no way the embassy staff wouldn’t recognise her.",
+        "Years later, she would somehow become one of the most talked-about figures at the banquet each year.",
+        "Once she found her partner, she changed her expression. The woman known for her poker face now made her rounds, exchanging pleasantries. In this setting—one she could never quite escape—she resigned herself to playing the diplomat’s perfect other half. No one ever asked questions outside of that role.",
+        "When her smile began to strain the corners of her face, she asked herself quietly, half-laughing: What am I even doing here?",
+        "She had grown up surrounded by words and traps designed to cut her down. The only way forward was to accept, to replicate, and to internalise the demand to be flawless in every way. In her dysfunctional family, she had chosen the role of the “hero”: a daughter carrying the outcomes traditionally expected of a son.",
+        "In casual settings, when she met new people and exchanged background details, conversations always shifted after they learned her companion’s profession. The spotlight turned to him. Rarely did it return to her.",
+        "Especially with older women, once they heard, their eyes sparkled with admiration—or something close to it. They praised her fortune, asked how they met, and what the secret was. She responded with a polite, unreadable smile."
+      ],
+      "note": {
+        "title": "＊Chef’s Note｜Gamja-tang (감자탕)",
+        "content": [
+          "This dish is often translated as “potato pork bone soup”—a popular but mistaken interpretation. Even many native speakers are unaware of the misreading.",
+          "Originally, gamja referred not to potatoes, but to gamju—a now-obscure term for a specific cut of pork spine. The phonetic overlap led to confusion, and because the dish eventually did incorporate actual potatoes, the assumption became widespread: It must be named for what’s visible in the pot.",
+          "But the truth is, the dish was never named for the garnish. The depth came from what lay beneath. The broth was built on slow-boiled bones. That was the core. That was the thing that made it whole."
+        ]
+      },
       "img": "/placeholder.svg"
     },
     {
-      "id": "item-13",
+      "id": "item-d3",
       "set": "D",
-      "author": "An Chen",
-      "name": "product name 13",
-      "desc": [],
+      "author": "정지은 Ji-eun Jung",
+      "name": "All Essential, But…",
+      "desc": [
+        "“Why rush to find a job? Your partner already has a good one—with status, too. What are you worried about?” said a friend, casually, when she voiced concerns about her career.",
+        "She still remembers: after her mother married her father, she quit her job to raise two children. Until her elder daughter entered middle school, she stayed home full-time. Yet her father would often say, “You’ve been home all day—shouldn’t you think about earning something?”",
+        "It was ironic. Her mother managed the household, cared for two children, visited her grandmother next door. Still, she was expected to find time to make money—without letting anything else slip. Her father, meanwhile, had total freedom after work. As if his duty ended with income. Everything else was left to her mother.",
+        "From then on, she vowed never to follow the same path—she would not marry. One belief etched itself into her mind: “Women must have their own income. Only then can they speak at home.”",
+        "She worked hard, always. But she also saw colleagues—mothers—tiptoeing through workplaces, afraid of judgment. Some quit. Some stayed, only to be sidelined. She promised herself, “I won’t let that be me. I won’t have children. I’ll protect this space I’ve built.” And she did. In jobs and freelance gigs, she always delivered. She moved fast, left a mark.",
+        "Then she met a man whose diplomatic path meant constant relocation. An external force she couldn’t control. While he studied for the foreign service exam, she supported him. She cooked, packed lunches, and gave up her weekends to study beside him. Her life bent around his, and eventually, it worked—he passed.She thought: now that life is stable, I’ll be free to chase my own dreams.",
+        "But it wasn’t so simple.",
+        "His work grew even more demanding. And she—the one with more time—picked up everything else. Cooking. Cleaning. Hosting. Errands. She came to realize: no matter how far gender awareness advances, once a woman is bound by domestic labor, it becomes almost impossible to fly.",
+        "She, with top degrees in sociology, still felt helpless. Because she knew too well: domestic work holds no visible value unless paid for—unless made part of the market.",
+        "Housework is the kind of work where nothing seems to change if you do it, but the absence is instantly visible.",
+        "These days, she just hopes to find work she truly enjoys—something to pull her farther from this quiet, invisible labor."
+      ],
+      "note": {
+        "title": "＊Chef’s Note｜Kimchi (김치)",
+        "content": [
+          "Kimchi is everywhere—daily staple, national soul, endlessly versatile. In 2010, far-right Korean forums coined the slur “kimchi woman” to mock women financially dependent on men—even full-time housewives.",
+          "This, in a country where women still earn over 30% less than men, the widest gender pay gap in the OECD.",
+          "They ignored the truth: women’s value in Korean society is like kimchi itself—essential, diverse, and full of character."
+        ]
+      },
       "img": "/placeholder.svg"
     }
   ]

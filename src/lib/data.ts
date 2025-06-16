@@ -8,6 +8,10 @@ export interface Item {
   name: string;
   desc: string[];
   img: string;
+  note?: {
+    title: string;
+    content: string[];
+  };
 }
 
 export interface ItemsData {
