@@ -5,11 +5,11 @@ import Link from "next/link";
 export default async function AllDishesPage({
   searchParams,
 }: {
-  searchParams: { id?: string };
+  searchParams: Promise<{ id?: string }>;
 }) {
   const { items } = getItemsData();
 
-  const ids = await searchParams.id;
+  const ids = (await searchParams).id;
   const filteredItems = ids
     ? items.filter((item) => ids.includes(item.id))
     : items;
