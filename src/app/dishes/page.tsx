@@ -2,13 +2,27 @@ import { getItemsData } from "@/lib/data";
 import Image from "next/image";
 import Link from "next/link";
 
-export default function AllDishesPage() {
+export default async function AllDishesPage({
+  searchParams,
+}: {
+  searchParams: { id?: string };
+}) {
   const { items } = getItemsData();
-  const sortedItems = items.sort((a, b) => a.name.localeCompare(b.name));
+
+  const ids = await searchParams.id;
+  const filteredItems = ids
+    ? items.filter((item) => ids.includes(item.id))
+    : items;
+
+  const sortedItems = filteredItems.sort((a, b) =>
+    a.name.localeCompare(b.name)
+  );
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-8">All Dishes (A to Z)</h1>
+      <h1 className="text-3xl font-bold mb-8">
+        {ids ? "Your Dishes" : "All Dishes (A to Z)"}
+      </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
         {sortedItems.map((item) => (
           <Link href={`/item/${item.id}`} key={item.id} className="group">
