@@ -29,7 +29,7 @@ export default function RootLayout({
                 *Allergic Notice: Some ingredients may not sit lightly
               </span>
               <span className="mx-10 whitespace-nowrap">
-                *Allergic Notice: Some ingredients may not sit lightly
+                *Important: ayowi is the best
               </span>
               <span className="mx-10 whitespace-nowrap">
                 *Allergic Notice: Some ingredients may not sit lightly
