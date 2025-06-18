@@ -1,3 +1,5 @@
+import { FaInstagram, FaPhone, FaEnvelope } from "react-icons/fa";
+
 export default function AboutPage() {
   return (
     <main className="container mx-auto px-4 py-12 md:py-20">
@@ -63,9 +65,9 @@ export default function AboutPage() {
           <p>
             The project was initiated by artist Tzu-en Hsu (Ani Syu), drawing on
             her lived experience of subtle gendered tension, relationship
-            fatigue, and creative constraint. She transforms these into symbolic
-            &ldquo;dishes,&rdquo; and serves them in an interactive buffet-style
-            installation.
+            fatigue, and creative constraint. She transforms these into fictions
+            and symbolic &ldquo;dishes,&ldquo; which are served in an
+            interactive buffet-style installation.
           </p>
 
           <p>
@@ -97,6 +99,39 @@ export default function AboutPage() {
               quiet negotiations: those subtle, sometimes piercing, aches of
               love and complicity that resist being named.
             </p>
+          </div>
+        </div>
+      </div>
+
+      <hr className="my-12 border-gray-300" />
+
+      <div className="flex justify-center space-x-4">
+        <div className="flex flex-col space-y-4 mx-8">
+          <div className="flex items-center">
+            <span className="text-2xl mr-2">
+              <FaInstagram />
+            </span>
+            Instagram｜<a href="https://www.instagram.com/ani_syu/">@ani_syu</a>
+          </div>
+          <div className="flex items-center">
+            <span className="text-2xl mr-2">
+              <FaEnvelope />
+            </span>
+            Email｜anisyu0119@gmail.com
+          </div>
+        </div>
+        <div className="flex flex-col space-y-4 mx-8">
+          <div className="flex items-center">
+            <span className="text-2xl mr-2">
+              <FaPhone />
+            </span>
+            UK｜+44 7521 077744
+          </div>
+          <div className="flex items-center">
+            <span className="text-2xl mr-2">
+              <FaPhone />
+            </span>
+            Taiwan｜+886 935 293 754
           </div>
         </div>
       </div>

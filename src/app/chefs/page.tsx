@@ -5,14 +5,14 @@ const chefs = [
     name: "Ani Syu",
     subtitle: "Head Chef of Set A – The Pilgrimage of Play",
     description:
-      "Ani is an editor, researcher, and creative director. Drawing from a background in philosophy and political science at National Taiwan University, she is currently based in London, pursuing an MFA at the Royal College of Art. Her practice explores cultural identity, local narratives, and community engagement through curatorial and editorial methodologies. She has collaborated with communities, governments, and institutions to develop projects such as tien faˊ and Very Pingtung, amplifying underrepresented voices and rethinking regional narratives.",
+      "Ani is a Taiwanese editor, researcher, and creative director. Drawing from a background in philosophy and political science at National Taiwan University, she is currently based in London, pursuing an MFA at the Royal College of Art. Her practice explores cultural identity, local narratives, and community engagement through curatorial and editorial methodologies. She has collaborated with communities, governments, and institutions to develop projects such as tien faˊ and Very Pingtung, amplifying underrepresented voices and rethinking regional narratives.",
     image: "/author/A.jpg",
   },
   {
     name: "Clementine Hei-man Cheung",
     subtitle: "Head Chef of Set B – The Tender Equations",
     description:
-      "Clementine is a freelance writer, copywriter, and translator, with her curious heart scattered across the fields of art, literature, culture, humanities, and imaginations. After attaining degrees in public and urban policy, and politics and sociology in Glasgow, Scotland, her thoughts are inevitably infused with a blended touch of accent.",
+      "Clementine Hei-man Cheung is a Hong Kong-based freelance writer, copywriter, and translator, with her curious heart scattered across the fields of art, literature, culture, humanities, and imaginations. After attaining degrees in public and urban policy, and politics and sociology in Glasgow, Scotland, her thoughts are inevitably infused with a blended touch of accent.",
     image: "/author/B.JPEG",
   },
   {
@@ -26,7 +26,7 @@ const chefs = [
     name: "정지은 Ji-eun Jung",
     subtitle: "Head Chef of Set D – The Nice Things",
     description:
-      "Ji-eun Jung is A boundary-crossing observer crafting sustainable content through sharp insight, creative balance, and a deep urge to question and connect.",
+      "From South Korea, Ji-eun Jung is a boundary-crossing observer crafting sustainable content through sharp insight, creative balance, and a deep urge to question and connect.",
     image: "/author/D.jpg",
   },
 ];
