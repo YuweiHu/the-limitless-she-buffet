@@ -105,33 +105,35 @@ export default function AboutPage() {
 
       <hr className="my-12 border-gray-300" />
 
-      <div className="flex justify-center space-x-4">
-        <div className="flex flex-col space-y-4 mx-8">
-          <div className="flex items-center">
-            <span className="text-2xl mr-2">
-              <FaInstagram />
-            </span>
-            Instagram｜<a href="https://www.instagram.com/ani_syu/">@ani_syu</a>
+      <div className="container mx-auto px-4 py-8 text-center">
+        <div className="flex flex-col items-start md:items-center justify-center gap-[16px] md:flex-row md:gap-16">
+          <div className="flex flex-col space-y-4">
+            <div className="flex items-center">
+              <span className="text-2xl mr-2">
+                <FaInstagram />
+              </span>
+              <a href="https://www.instagram.com/ani_syu/">@ani_syu</a>
+            </div>
+            <div className="flex items-center">
+              <span className="text-2xl mr-2">
+                <FaEnvelope />
+              </span>
+              anisyu0119@gmail.com
+            </div>
           </div>
-          <div className="flex items-center">
-            <span className="text-2xl mr-2">
-              <FaEnvelope />
-            </span>
-            Email｜anisyu0119@gmail.com
-          </div>
-        </div>
-        <div className="flex flex-col space-y-4 mx-8">
-          <div className="flex items-center">
-            <span className="text-2xl mr-2">
-              <FaPhone />
-            </span>
-            UK｜+44 7521 077744
-          </div>
-          <div className="flex items-center">
-            <span className="text-2xl mr-2">
-              <FaPhone />
-            </span>
-            Taiwan｜+886 935 293 754
+          <div className="flex flex-col space-y-4">
+            <div className="flex items-center">
+              <span className="text-2xl mr-2">
+                <FaPhone />
+              </span>
+              UK｜+44 7521 077744
+            </div>
+            <div className="flex items-center">
+              <span className="text-2xl mr-2">
+                <FaPhone />
+              </span>
+              Taiwan｜+886 935 293 754
+            </div>
           </div>
         </div>
       </div>
